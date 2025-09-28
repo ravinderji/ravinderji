@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I’m Ravinderjeet 
 
-<!--
-**ravinderji/ravinderji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Software Engineer | Full-Stack Developer | Cloud, Data & AI Enthusiast**  
+🔹 16+ years of experience in building **enterprise-grade Java applications**  
+🔹 Passionate about **Microservices, Cloud, DevOps, Data Science, AI, and Mobile Development** 
+🔹 Believe technology is not a barrier — So always ready to adapt, learn, and apply new technologies to deliver value in fast-evolving ecosystems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on  
+- 📱 **Meditation Tracker App** – Android app using **Vosk Speech Recognition + Google ML Kit**  
+- ☁️ **Cloud-native microservices** with **Spring Boot, Docker, Kubernetes, OpenShift, and AWS**  
+- 🤖 **Exploring AI** to integrate into enterprise apps as plug & play  
+- 🐍 **Python-based automation** - To ease developer/development work  
+
+---
+
+## 🌱 I’m currently learning  
+- 📊 **Integrating AI-driven applications as Plug & Play** -- Under Development 
+- 📱 **Mobile app publishing** on Google Play Store  - Under Testing
+
+---
+
+## 👯 I’m looking to collaborate on  
+- Open-source **Java / Spring Boot microservices projects**  
+- **AI integrations** with enterprise systems  
+- **Full-stack projects** combining React + Spring Boot  
+
+---
+
+## 📫 How to reach me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 💻 [GitHub](https://github.com/your-github)
+  
+---
+
+## 🏆 Certifications  
+- ✅ Oracle Certified Java Programmer (SCJP)  
+- ✅ Oracle Certified Web Component Developer (SCWCD)  
+- ✅ Data Scientist Master Program (Simplilearn, Nov 2024)  
+- ✅ Data Science with Python (Simplilearn, Oct 2024)  
+
+---
+
+## ⚡ Fun fact  
+When I’m not coding or exploring cloud, I enjoy **meditation, experimenting with AI, and building apps that blend technology with mindfulness**.  
+
+---
