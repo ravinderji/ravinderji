@@ -29,8 +29,7 @@
 ---
 
 ## 📫 How to reach me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 💻 [GitHub](https://github.com/your-github)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravinderjeet/)  
   
 ---
 
