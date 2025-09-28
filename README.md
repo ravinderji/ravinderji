@@ -2,7 +2,7 @@
 
 🔹 **Software Engineer | Full-Stack Developer | Cloud, Data & AI Enthusiast**  
 🔹 16+ years of experience in building **enterprise-grade Java applications**  
-🔹 Passionate about **Microservices, Cloud, DevOps, Data Science, AI, and Mobile Development**
+🔹 Passionate about **Microservices, Cloud, DevOps, Data Science, AI, and Mobile Development**  
 🔹 **Technology is not a barrier, always ready to adapt, learn, and apply them to deliver value in fast-evolving ecosystems.**
 
 ---
