@@ -1,23 +1,35 @@
 # 👋 Hi, I’m Ravinderjeet 
 
+## 👨‍💻 About Me
 🔹 **Software Engineer | Full-Stack Developer | Cloud, Data & AI Enthusiast**  
-🔹 16+ years of experience in building **enterprise-grade Java applications**  
-🔹 Passionate about **Microservices, Cloud, DevOps, Data Science, AI, and Mobile Development**  
-🔹 **Technology is not a barrier, always ready to adapt, learn, and apply them to deliver value in fast-evolving ecosystems.**
+🔹 Over **16 years of experience** building and scaling **enterprise-grade Java applications** across multiple domains.  
+🔹 Strong expertise in **Backend Development**, **Microservices Architecture**, and **Cloud-Native Solutions** with **Spring Boot**, **Docker**, **Kubernetes**, **OpenShift**, and **AWS**.  
+🔹 Passionate about **DevOps automation, Data Engineering, AI/LLM integration**, and building scalable distributed systems.  
+🔹 Experienced in building frontend applications with **React.js**, and continuously improving on **UI/UX fundamentals** — with a focus on functionality, clean structure, and seamless integration with backend services.  
+🔹 **Technology is never a barrier** — I adapt, learn, and apply new tools and paradigms to deliver value in fast-evolving ecosystems.
 
 ---
 
-## 🔭 I’m currently working on  
-- 📱 **Meditation Tracker App** – Android app using **Vosk Speech Recognition + Google ML Kit**  
-- ☁️ **Cloud-native microservices** with **Spring Boot, Docker, Kubernetes, OpenShift, and AWS**  
-- 🤖 **Exploring AI** to integrate into enterprise apps as plug & play  
-- 🐍 **Python-based Automations** - To ease developer/development work  
+## 🔭 I’m Currently Working On
+
+- 📱 **Meditation Tracker App** – A cross-platform Android app that leverages **Vosk Speech Recognition** and **Google ML Kit** for real-time voice analysis and mindful practice tracking.  
+- ☁️ **Cloud-Native Microservices** – Building and deploying microservices using **Spring Boot**, **Docker**, **Kubernetes**, **OpenShift**, and **AWS**, with a focus on scalability and resilience.  
+- 🤖 **AI Integration in Enterprise Apps** – Experimenting with **LLM-based plug-and-play modules** to embed intelligence into existing business applications.  
+- 🐍 **Python-Based Automations** – Developing automation scripts and tools to streamline development workflows and reduce repetitive engineering tasks.
 
 ---
 
-## 🌱 I’m currently immplementing    
-- 📊 **AI Workkflow Orchestrator** - [Click Here](https://github.com/ravinderji/ai-workflow-orchestrator-docs)
-- 📱 **Mobile app publishing** on Google Play Store  - Under Testing
+## 🌱 Self Projects
+
+- 📊 **AI Workflow Orchestrator**  
+  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/ravinderji/ai-workflow-orchestrator-docs)  
+  A lightweight plugin framework for orchestrating complex AI workflows with multiple LLMs, tools, and MCP services.  
+  🔗 [View Documentation & Examples](https://github.com/ravinderji/ai-workflow-orchestrator-docs)
+
+- 📱 **Mobile App Publishing**  
+  [![Status](https://img.shields.io/badge/Status-Under_Testing-orange?style=flat-square)](#)  
+  End-to-end process for building, testing, and publishing cross-platform mobile applications on the Google Play Store.  
+  🚧 *Currently under testing phase*
 
 ---
 
