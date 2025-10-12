@@ -11,12 +11,12 @@
 - 📱 **Meditation Tracker App** – Android app using **Vosk Speech Recognition + Google ML Kit**  
 - ☁️ **Cloud-native microservices** with **Spring Boot, Docker, Kubernetes, OpenShift, and AWS**  
 - 🤖 **Exploring AI** to integrate into enterprise apps as plug & play  
-- 🐍 **Python-based automation** - To ease developer/development work  
+- 🐍 **Python-based Automations** - To ease developer/development work  
 
 ---
 
-## 🌱 I’m currently learning  
-- 📊 **Integrating AI-driven applications as Plug & Play** -- Under Development 
+## 🌱 I’m currently immplementing    
+- 📊 **AI Workkflow Orchestrator** - [Click Here](https://github.com/ravinderji/ai-workflow-orchestrator-docs)
 - 📱 **Mobile app publishing** on Google Play Store  - Under Testing
 
 ---
