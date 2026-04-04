@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Ravinderjeet 
 
 ## 👨‍💻 About Me
-🔹 **Senior Software Engineer | Full-Stack Developer | Cloud, Data & AI Enthusiast | Mobile App Developer**  
-🔹 Over **16 years of experience** building and scaling **enterprise-grade Java applications** across multiple domains.  
-🔹 Strong expertise in **Backend Development**, **Microservices Architecture**, and **Cloud-Native Solutions** with **Spring Boot**, **Docker**, **Kubernetes**, **OpenShift**, and **AWS**.  
+🔹 **Senior Software Engineer | Full-Stack JAVA Developer | Cloud, Data & AI Enthusiast | Mobile App Developer**  
+🔹 Over **16 plus years of experience** building and scaling **enterprise-grade Java applications** across multiple domains.  
+🔹 Strong expertise in **Backend Development**, **JAVA/J2EE**, **Microservices Architecture**, and **Cloud-Native Solutions** with **Spring Boot**, **Docker**, **Kubernetes**, **OpenShift**, and **AWS**.  
 🔹 Passionate about **DevOps automation, Data Engineering, AI/LLM integration**, and building scalable distributed systems.  
-🔹 Experienced in building frontend applications with **React.js**, and continuously improving on **UI/UX fundamentals** — with a focus on functionality, clean structure, and seamless integration with backend services.  
+🔹 Experienced in building frontend applications with **Node**, **JavaScript**, **React.js**, and continuously improving on **UI/UX fundamentals** — with a focus on functionality, clean structure, and seamless integration with backend services.  
 🔹 **Technology is never a barrier** — I adapt, learn, and apply new tools and paradigms to deliver value in fast-evolving ecosystems.
 
 ---
