@@ -12,7 +12,6 @@
 
 ## 🔭 I’m Currently Working On
 
-- 📱 **Meditation Tracker App** – A cross-platform Android app that leverages **Vosk Speech Recognition** and **Google ML Kit** for real-time voice analysis and mindful practice tracking.  
 - ☁️ **Cloud-Native Microservices** – Building and deploying microservices using **Spring Boot**, **Docker**, **Kubernetes**, **OpenShift**, and **AWS**, with a focus on scalability and resilience.  
 - 🤖 **AI Integration in Enterprise Apps** – Experimenting with **LLM-based plug-and-play modules** to embed intelligence into existing business applications.  
 - 🐍 **Python-Based Automations** – Developing automation scripts and tools to streamline development workflows and reduce repetitive engineering tasks.
@@ -54,6 +53,6 @@
 ---
 
 ## ⚡ Fun fact  
-When I’m not coding or exploring cloud, I enjoy **meditation, experimenting with AI, and building apps that blend technology with mindfulness**.  
+When I’m not coding or exploring cloud, I enjoy **experimenting with AI and learning new technology**.  
 
 ---
